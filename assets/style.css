@@ -1,3 +1,31 @@
 main{
+    padding-top: 15px;
     display:flex;
+}
+header, h2{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(52, 118, 194);
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 45px;
+    text-align: end;
+    padding-right: 50px;
+}
+.left-side{
+    display:block;
+    padding-right: 20px;
+}
+.search-city,
+.search-history{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+#search{
+    margin-top: 15px;
+}
+.forecast{
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
