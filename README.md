@@ -5,6 +5,9 @@ Server-side APIs (Application Programming Interface) are applications used by de
 
 OpenWeather is one of many open source APIs who facilitate information to develop web applications. In this case we were asked to create a weather-forecast application.
 
+URL: https://garfias06.github.io/weather-forecast/
+GitHub: https://github.com/garfias06/weather-forecast
+
 ## Usage
 When web page is displayed, the traveler (user) will be presented with a search section on the left side of the page so any city within the US can be found and weather will be shown to the traveler.
 
