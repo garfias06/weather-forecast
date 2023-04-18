@@ -27,6 +27,7 @@ The information that is presented to the user is the following:
 ## Credits
 - https://openweathermap.org/
 - https://www.w3schools.com/
+- Tutor: Jose Lopez
 
 ## License
 MIT License
